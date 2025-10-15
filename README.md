@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[[https://vercel.com/info-34580468s-projects/v0-plant-health-detector](https://vercel.com/info-34580468s-projects/v0-plant-health-detector)](https://v0-plant-health-detector-tau.vercel.app)**
+**[[https://v0-plant-health-detector-tau.vercel.app](https://v0-plant-health-detector-tau.vercel.app)]**
 
 ## Build your app
 
